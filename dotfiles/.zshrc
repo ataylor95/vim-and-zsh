@@ -86,3 +86,6 @@ source $ZSH/oh-my-zsh.sh
 
 #This loads rvm
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
+
+#Valet
+export PATH=$PATH:~/.config/composer/vendor/bin
