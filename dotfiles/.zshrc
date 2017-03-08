@@ -89,3 +89,6 @@ source $ZSH/oh-my-zsh.sh
 
 #Valet
 export PATH=$PATH:~/.config/composer/vendor/bin
+
+#Phantomjs
+export PATH=$PATH:/opt/phantomjs/bin
