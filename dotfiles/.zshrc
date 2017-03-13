@@ -51,7 +51,7 @@ ZSH_THEME="gentoo"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git node npm bower z ruby gitignore)
+plugins=(git node npm bower z ruby gitignore zsh-nvm)
 
 source $ZSH/oh-my-zsh.sh
 
